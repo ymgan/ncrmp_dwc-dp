@@ -33,7 +33,7 @@ dwc_dp_survey <- event %>%
 dwc_dp_occ <- occ %>%
   filter_dataframe_by_json("https://rs.gbif.org/sandbox/experimental/data-packages/dwc-dp/0.1/table-schemas/occurrence.json")
 
-# dwca event fields not in dwc-dp event 
+# dwca occ fields not in dwc-dp occ 
 setdiff(names(occ), names(dwc_dp_occ))
 
 ## Event Assertion
