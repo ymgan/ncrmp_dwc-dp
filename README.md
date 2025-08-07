@@ -29,7 +29,7 @@ This repository contains the Darwin Core Data Package (DwC-DP) representation of
 
 - The original **Darwin Core Archive (DwC-A)** was downloaded from the OBIS IPT and stored under `data/dwca-floridakeysreefvisualcensus2018-v1.7/`.
 - The dataset was mapped to **Darwin Core Data Package (DwC-DP)** format using R.
-- Outputs (CSV and `meta.yaml`) are saved in `data/dwc-dp/`.
+- Outputs (tab separated files) are saved in `data/dwc-dp/`.
 
 ---
 
