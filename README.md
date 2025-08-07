@@ -1,9 +1,11 @@
 #  NOAA National Coral Reef Monitoring Program Coral Benthic Assessment Data - Darwin Core Data Package
 
-This repository contains the Darwin Core Data Package (DwC-DP) representation of the **National Coral Reef Monitoring Program: Assessment of fish communities in the Florida Keys during 2018 ** dataset.
+This repository contains the Darwin Core Data Package (DwC-DP) representation of the **National Coral Reef Monitoring Program: Assessment of fish communities in the Florida Keys during 2018** dataset.
 
 🔗 **Original dataset**: [National Coral Reef Monitoring Program: Assessment of fish communities in the Florida Keys during 2018 on OBIS IPT](https://ipt-obis.gbif.us/resource?r=floridakeysreefvisualcensus2018)  
+
 📦 **DOI**: https://doi.org/10.15468/ejufy4
+
 🧰 **Built with**: R + tidyverse + renv
 
 ---
