@@ -14,7 +14,7 @@ This repository contains the Darwin Core Data Package (DwC-DP) representation of
 
 ```
 ├── data
-│   ├── dwca-floridakeysreefvisualcensus2018-v1.7   # Original DwC-A from OBIS IPT
+│   ├── dwca-floridakeysreefvisualcensus2018-v1.7    # Original DwC-A from OBIS-USA IPT
 │   └── dwc-dp                                       # Converted Darwin Core Data Package
 ├── src
 │   ├── helpers.R                                    # Utility functions
