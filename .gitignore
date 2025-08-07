@@ -1,0 +1,25 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# renv files
+renv/library/
+renv/staging/
+
+# OS-specific files
+.DS_Store
+
+# Logs and other misc
+*.log
+
+# temp files
+*.tmp
+*~
+

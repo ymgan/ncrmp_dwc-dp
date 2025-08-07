@@ -1,0 +1,445 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="60b463ce-d58e-4982-b772-ae8fc9a6f1ef/v1.7" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>60b463ce-d58e-4982-b772-ae8fc9a6f1ef</alternateIdentifier>
+                <alternateIdentifier>https://www.sciencebase.gov/catalog/item/63ceec7fd34e06fef14fcb00</alternateIdentifier>
+                <alternateIdentifier>https://obis.org/dataset/03b75eb2-4672-42de-8211-f7c1daa39648</alternateIdentifier>
+                <alternateIdentifier>https://ipt-obis.gbif.us/resource?r=floridakeysreefvisualcensus2018</alternateIdentifier>
+                <title xml:lang="eng">National Coral Reef Monitoring Program: Assessment of fish communities in the Florida Keys during 2018</title>
+                    <creator>
+            <organizationName>NOAA Southeast Fisheries Science Center</organizationName>
+            <onlineUrl>https://www.sefsc.noaa.gov</onlineUrl>
+                    </creator>
+                    <creator>
+            <organizationName>NOAA National Centers for Coastal Ocean Science</organizationName>
+            <electronicMailAddress>NCCOS.data@noaa.gov</electronicMailAddress>
+            <onlineUrl>http://coastalscience.noaa.gov/</onlineUrl>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Jeremiah</givenName>
+                <surName>Blondeau</surName>
+            </individualName>
+            <organizationName>US DOC; NOAA; NMFS; Southeast Fisheries Science Center; Miami, FL Laboratory</organizationName>
+            <electronicMailAddress>jeremiah.blondeau@noaa.gov</electronicMailAddress>
+                    </metadataProvider>
+                    <metadataProvider>
+            <organizationName>US DOC; NOAA; NMFS; Southeast Fisheries Science Center (NMFS/SEFSC)</organizationName>
+            <onlineUrl>https://www.sefsc.noaa.gov</onlineUrl>
+                    </metadataProvider>
+                    <associatedParty>
+            <organizationName>NOAA Southeast Fisheries Science Center</organizationName>
+            <onlineUrl>https://www.sefsc.noaa.gov</onlineUrl>
+            <role>author</role>
+                    </associatedParty>
+                    <associatedParty>
+            <organizationName>NOAA National Centers for Coastal Ocean Science</organizationName>
+            <electronicMailAddress>NCCOS.data@noaa.gov</electronicMailAddress>
+            <onlineUrl>http://coastalscience.noaa.gov/</onlineUrl>
+            <role>author</role>
+                    </associatedParty>
+                    <associatedParty>
+            <organizationName>US DOC; NOAA; NMFS; Southeast Fisheries Science Center (NMFS/SEFSC)</organizationName>
+            <onlineUrl>https://www.sefsc.noaa.gov</onlineUrl>
+            <role></role>
+                    </associatedParty>
+                    <associatedParty>
+            <organizationName>US DOC; NOAA; NOS; National Centers for Coastal Ocean Science (NCCOS)</organizationName>
+            <electronicMailAddress>NCCOS.data@noaa.gov</electronicMailAddress>
+            <onlineUrl>http://coastalscience.noaa.gov/</onlineUrl>
+            <role></role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Jeremiah</givenName>
+                <surName>Blondeau</surName>
+            </individualName>
+            <organizationName>US DOC; NOAA; NMFS; Southeast Fisheries Science Center; Miami, FL Laboratory</organizationName>
+            <electronicMailAddress>jeremiah.blondeau@noaa.gov</electronicMailAddress>
+            <role>contentProvider</role>
+                    </associatedParty>
+                    <associatedParty>
+            <organizationName>US DOC; NOAA; NMFS; Southeast Fisheries Science Center (NMFS/SEFSC)</organizationName>
+            <onlineUrl>https://www.sefsc.noaa.gov</onlineUrl>
+            <role>contentProvider</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Stephen K.</givenName>
+                <surName>Formel</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <electronicMailAddress>sformel@usgs.gov</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-7418-1244</userId>
+            <role>processor</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Stephen K.</givenName>
+                <surName>Formel</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <electronicMailAddress>sformel@usgs.gov</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-7418-1244</userId>
+            <role>publisher</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Abby</givenName>
+                <surName>Benson</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <electronicMailAddress>albenson@usgs.gov</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4391-107X</userId>
+            <role>processor</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Abby</givenName>
+                <surName>Benson</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <electronicMailAddress>albenson@usgs.gov</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4391-107X</userId>
+            <role>publisher</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Erica</givenName>
+                <surName>Towle</surName>
+            </individualName>
+            <organizationName>National Coral Reef Monitoring Program (NCRMP)</organizationName>
+            <positionName>Coordinator</positionName>
+            <electronicMailAddress>erica.towle@noaa.gov</electronicMailAddress>
+                    <userId directory="https://www.linkedin.com/profile/view?id=">erica-k-towle-ph-d-461598b1</userId>
+            <role>pointOfContact</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Erica</givenName>
+                <surName>Towle</surName>
+            </individualName>
+            <organizationName>National Coral Reef Monitoring Program (NCRMP)</organizationName>
+            <positionName>Coordinator</positionName>
+            <electronicMailAddress>erica.towle@noaa.gov</electronicMailAddress>
+                    <userId directory="https://www.linkedin.com/profile/view?id=">erica-k-towle-ph-d-461598b1</userId>
+            <role>distributor</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Mathew</givenName>
+                <surName>Biddle</surName>
+            </individualName>
+            <organizationName>United States Marine Biodiversity Observation Network (US MBON)</organizationName>
+            <positionName>Physical Scientist</positionName>
+            <electronicMailAddress>mathew.biddle@noaa.gov</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-4897-1669</userId>
+            <role>distributor</role>
+                    </associatedParty>
+                    <associatedParty>
+            <organizationName>NOAA/US Integrated Ocean Observing System IOOS</organizationName>
+            <address>
+                    <country>US</country>
+            </address>
+            <onlineUrl>https://ioos.us/</onlineUrl>
+            <role>custodianSteward</role>
+                    </associatedParty>
+            <pubDate>
+                    2024-05-10
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>This dataset includes observations of reef fish near the Florida Keys in 2018. Data were sourced from the SEFSC Data Portal and aligned to Darwin Core. This data is a subset of data from an ongoing project that includes data from other regions and years and is dependent on the sampling design. The stationary point count method (7.5m radius cylinder) is used to conduct fish surveys in Florida as part of the National Coral Reef Monitoring Program (NCRMP). This method collects and reports information on species composition, density, size structure, abundance and derived metrics (e.g., species richness, diversity). Data provided in this data set are from the Florida Keys. Data are collected using a 2-stage, stratified random survey design. Lead agencies involved include the National Oceanic and Atmospheric Administration’s Southeast Fisheries Science Center (NOAA Fisheries) and National Centers for Coastal Ocean Science (NCCOS).</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>CORAL REEF</keyword>
+                                    <keyword>FISH</keyword>
+                                    <keyword>FLORIDA KEYS</keyword>
+                                    <keyword>IOOS</keyword>
+                                    <keyword>National Oceanic &amp; Atmospheric Administration</keyword>
+                            <keywordThesaurus>Global Change Master Directory (GCMD) Keywords</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>biological data</keyword>
+                                    <keyword>DEPTH - OBSERVATION</keyword>
+                                    <keyword>FISH - CORAL REEF</keyword>
+                                    <keyword>FISH CENSUS</keyword>
+                                    <keyword>FISH SPECIES</keyword>
+                                    <keyword>HABITAT</keyword>
+                                    <keyword>REEF AND/OR BOTTOM REGIME - PERCENT COVER</keyword>
+                                    <keyword>SPECIES IDENTIFICATION</keyword>
+                                    <keyword>SPECIES IDENTIFICATION - COUNT</keyword>
+                                    <keyword>SPECIES IDENTIFICATION - ORGANISM LENGTH</keyword>
+                            <keywordThesaurus>NODC DATA TYPES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>swimmer/diver</keyword>
+                                    <keyword>visual observation</keyword>
+                            <keywordThesaurus>NODC INSTRUMENT TYPES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>in situ</keyword>
+                            <keywordThesaurus>NODC OBSERVATION TYPES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>US DOC; NOAA; NMFS; Southeast Fisheries Science Center</keyword>
+                                    <keyword>US DOC; NOAA; NOS; National Centers for Coastal Ocean Science</keyword>
+                            <keywordThesaurus>NODC COLLECTING INSTITUTION NAMES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>US DOC; NOAA; NMFS; Southeast Fisheries Science Center</keyword>
+                            <keywordThesaurus>NODC SUBMITTING INSTITUTION NAMES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Coral Reef Conservation Program (CRCP)</keyword>
+                                    <keyword>CORAL REEF STUDIES</keyword>
+                                    <keyword>National Coral Reef Monitoring Program (NCRMP)</keyword>
+                            <keywordThesaurus>NODC PROJECT NAMES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Coastal Waters of Florida</keyword>
+                                    <keyword>Florida Keys National Marine Sanctuary</keyword>
+                                    <keyword>Gulf of Mexico</keyword>
+                                    <keyword>North Atlantic Ocean</keyword>
+                            <keywordThesaurus>NODC SEA AREA NAMES THESAURUS</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>oceanography</keyword>
+                            <keywordThesaurus>WMO_CategoryCode</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>SEFSC</keyword>
+                                    <keyword>Southeast Fisheries Science Center</keyword>
+                            <keywordThesaurus>Contributing Data Centers</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>DOC/NOAA/NMFS/SEFSC &gt; Southeast Fisheries Science Center, National Marine Fisheries Service, NOAA, U.S. Department of Commerce</keyword>
+                                    <keyword>DOC/NOAA/NOS/NCCOS &gt; National Centers for Coastal Ocean Science, National Ocean Service, NOAA, U.S. Department of Commerce</keyword>
+                            <keywordThesaurus>Global Change Master Directory (GCMD) Data Center Keywords</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>743</keyword>
+                                    <keyword>National Coral Reef Monitoring Program (NCRMP)</keyword>
+                            <keywordThesaurus>CRCP Project</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Numeric Data Sets &gt; Fish Census</keyword>
+                            <keywordThesaurus>CoRIS Discovery Thesaurus</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>EARTH SCIENCE &gt; Biosphere &gt; Zoology &gt; Corals &gt; Reef Monitoring and Assessment &gt; Reef Fish Census &gt; Stationary</keyword>
+                                    <keyword>EARTH SCIENCE &gt; Oceans &gt; Marine Biology &gt; Fish</keyword>
+                                    <keyword>EARTH SCIENCE &gt; Oceans &gt; Marine Biology &gt; Fish &gt; Fish Census</keyword>
+                            <keywordThesaurus>CoRIS Theme Thesaurus</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION</keyword>
+                                    <keyword>EARTH SCIENCE &gt; BIOLOGICAL CLASSIFICATION &gt; ANIMALS/VERTEBRATES &gt; FISH</keyword>
+                            <keywordThesaurus>Global Change Master Directory (GCMD) Science Keywords</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>VISUAL OBSERVATIONS &gt; VISUAL OBSERVATIONS</keyword>
+                            <keywordThesaurus>Global Change Master Directory (GCMD) Instrument Keywords</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>COUNTRY/TERRITORY &gt; United States of America &gt; Florida &gt; Florida Reef Tract (26N080W0007)</keyword>
+                                    <keyword>OCEAN BASIN &gt; Atlantic Ocean &gt; North Atlantic Ocean &gt; Florida Reef Tract (26N080W0007)</keyword>
+                            <keywordThesaurus>CoRIS Place Thesaurus</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>OCEAN &gt; ATLANTIC OCEAN &gt; NORTH ATLANTIC OCEAN</keyword>
+                                    <keyword>OCEAN &gt; ATLANTIC OCEAN &gt; NORTH ATLANTIC OCEAN &gt; GULF OF MEXICO</keyword>
+                            <keywordThesaurus>Global Change Master Directory (GCMD) Location Keywords</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Biennial</keyword>
+                            <keywordThesaurus>Provider Temporal Keywords</keywordThesaurus>
+                        </keywordSet>
+                <additionalInfo>
+                    <para>marine, harvest by iOBIS
+Documentation of codes and controlled vocabularies is included in the NCEI archive: https://www.ncei.noaa.gov/archive/accession/208321</para>
+                </additionalInfo>
+                <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://grunt.sefsc.noaa.gov/rvc_analysis20/?acton=index</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Florida Keys National Marine Sanctuary</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-82.005</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-80.089</eastBoundingCoordinate>
+                                <northBoundingCoordinate>25.747</northBoundingCoordinate>
+                                <southBoundingCoordinate>24.433</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2018-06-18</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2018-12-05</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>Reef fish</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Teleostei</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>The National Coral Reef Monitoring Program (NCRMP) details a long-term approach to provide an ecosystem perspective via monitoring climate, fish, benthic, and socioeconomic variables in a consistent and integrated manner. The NCRMP is intended to coordinate various Coral Reef Conservation Coral Reef Program (CRCP) biological, physical, and human dimensions activities into a cohesive NOAA-wide effort. Through the implementation of the NCRMP, NOAA will be able to clearly and concisely communicate results of national-scale monitoring to national, state, and territorial policy makers, resource managers, and the public on a periodic basis.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>As needed</para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Jeremiah</givenName>
+                <surName>Blondeau</surName>
+            </individualName>
+            <organizationName>US DOC; NOAA; NMFS; Southeast Fisheries Science Center; Miami, FL Laboratory</organizationName>
+            <electronicMailAddress>jeremiah.blondeau@noaa.gov</electronicMailAddress>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>For detailed Standard Operating Procedures, see: Brandt, Marilyn E., et al. &apos;A cooperative multi-agency reef fish monitoring protocol for the Florida Keys coral reef ecosystem.&apos; (2009) https://repository.library.noaa.gov/view/noaa/546</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>National Coral Reef Monitoring Program (NCRMP) monitoring of coral reef ecosystems focuses on status and changes in the benthic community, with emphasis on the reef-building corals and on the assemblages of reef fishes that utilize the coral reef environment.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>For detailed Standard Operating Procedures, see: Brandt, Marilyn E., et al. &apos;A cooperative multi-agency reef fish monitoring protocol for the Florida Keys coral reef ecosystem.&apos; (2009) https://repository.library.noaa.gov/view/noaa/546</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>All field data undergo extensive QA/QC procedures. For detailed Standard Operating Procedures, see: Brandt, Marilyn E., et al. &apos;A cooperative multi-agency reef fish monitoring protocol for the Florida Keys coral reef ecosystem.&apos; (2009) https://repository.library.noaa.gov/view/noaa/546</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+                <project id="NCRMP">
+                    <title>NOAA&apos;S National Coral Reef Monitoring Program</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Erica</givenName>
+                                <surName>Towle</surName>
+                            </individualName>
+                                        <userId directory="https://www.linkedin.com/profile/view?id=">erica-k-towle-ph-d-461598b1</userId>
+                            <role>pointOfContact</role>
+                        </personnel>
+                        <abstract>
+                            <para>Coral reefs are among the most valuable ecosystems on earth, providing people with goods and services that include food, storm protection, and recreational opportunities. Despite their importance, coral reef ecosystems are in decline from a myriad of man-made and natural threats. In response, the NOAA Coral Reef Conservation Program established an integrated and focused monitoring effort with partners across the U.S.—the National Coral Reef Monitoring Program (NCRMP).This program is a strategic framework for conducting sustained observations of biological, climatic, and socioeconomic indicators in U.S. states and territories. The resulting data provide a robust picture of the condition of U.S. coral reef ecosystems and the communities connected to them.</para>
+                        </abstract>
+                        <funding>
+                            <para>NOAA&apos;s Coral Reef Conservation Program project #743</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>The National Coral Reef Monitoring Program surveys shallow water (0-30m) tropical coral reef ecosystems in the many priority geographic areas. See Miller et al. 2011 for more detail.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>For detail, see: Towle, Erica K., et al. &apos;National coral reef monitoring plan.&apos; (2021) https://doi.org/10.25923/fqkq-w497</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-01-23T22:29:39.523+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>NOAA Southeast Fisheries Science Center, NOAA National Centers for Coastal Ocean Science, Blondeau J, US DOC; NOAA; NMFS; Southeast Fisheries Science Center (NMFS/SEFSC) (2024). National Coral Reef Monitoring Program: Assessment of fish communities in the Florida Keys during 2018. Version 1.7. United States Geological Survey. Samplingevent dataset. https://ipt-obis.gbif.us/resource?r=floridakeysreefvisualcensus2018&amp;v=1.7</citation>
+                            <bibliography>
+                                        <citation identifier="https://repository.library.noaa.gov/view/noaa/650">Miller, J., et al. &apos;Coral Reef Conservation Program mapping achievements and unmet needs. US Department of Commerce, National Oceanic and Atmospheric Administration.&apos; Coral Reef Conservation Program (2011).</citation>
+                                        <citation identifier="https://doi.org/10.25923/fqkq-w497">Towle, Erica K., et al. &apos;National coral reef monitoring plan.&apos; (2021).</citation>
+                                        <citation identifier="https://repository.library.noaa.gov/view/noaa/546">Brandt, Marilyn E., et al. &apos;A cooperative multi-agency reef fish monitoring protocol for the Florida Keys coral reef ecosystem.&apos; (2009).</citation>
+                            </bibliography>
+                                <physical>
+                                    <objectName>NCEI Dataset Landing Page</objectName>
+                                    <characterEncoding>Unknown</characterEncoding>
+                                    <dataFormat>
+                                        <externallyDefinedFormat>
+                                            <formatName>CSV</formatName>
+                                        </externallyDefinedFormat>
+                                    </dataFormat>
+                                    <distribution>
+                                        <online>
+                                            <url function="download">https://www.ncei.noaa.gov/archive/accession/0208321</url>
+                                        </online>
+                                    </distribution>
+                                </physical>
+                                <physical>
+                                    <objectName>SEFSC South Florida National Coral Reef Monitoring Program Data Portal</objectName>
+                                    <characterEncoding>Unknown</characterEncoding>
+                                    <dataFormat>
+                                        <externallyDefinedFormat>
+                                            <formatName>CSV</formatName>
+                                        </externallyDefinedFormat>
+                                    </dataFormat>
+                                    <distribution>
+                                        <online>
+                                            <url function="download">https://grunt.sefsc.noaa.gov/rvc_analysis20/?acton=index</url>
+                                        </online>
+                                    </distribution>
+                                </physical>
+                                <physical>
+                                    <objectName>CRCP Florida Fish Files</objectName>
+                                    <characterEncoding>Unknown</characterEncoding>
+                                    <dataFormat>
+                                        <externallyDefinedFormat>
+                                            <formatName>ERDDAP</formatName>
+                                        </externallyDefinedFormat>
+                                    </dataFormat>
+                                    <distribution>
+                                        <online>
+                                            <url function="download">https://www.ncei.noaa.gov/erddap/tabledap/CRCP_Reef_Fish_Surveys_Florida.html</url>
+                                        </online>
+                                    </distribution>
+                                </physical>
+                            <dc:replaces>60b463ce-d58e-4982-b772-ae8fc9a6f1ef/v1.7.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>
